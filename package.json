@@ -1,0 +1,18 @@
+{
+  "name": "trestle-jsoneditor",
+  "version": "0.1.0",
+  "description": "> [JSONEditor](https://github.com/josdejong/jsoneditor) integration plugin for the Trestle admin framework",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {
+    "jsoneditor": "^8.6.1"
+  },
+  "dependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "LGPLv3"
+}
