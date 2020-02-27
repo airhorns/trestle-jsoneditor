@@ -36,3 +36,7 @@ end
 ## License
 
 The gem is available as open source under the terms of the [LGPLv3 License](https://opensource.org/licenses/LGPL-3.0).
+
+## Thanks
+
+This gem is a pretty close port of https://github.com/TrestleAdmin/trestle-simplemde by Sam Pohlenz, also the creator of Trestle. Thanks Sam!
