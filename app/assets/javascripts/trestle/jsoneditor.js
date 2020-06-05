@@ -1,6 +1,6 @@
 //= require vendored_jsoneditor/jsoneditor
 
-Trestle.init(function (root) {
+Trestle.init(function (_, root) {
   $(root).find('[data-enable-jsoneditor]').each(function (index, element) {
     const $field = $(element).parent().find('input.json-text-area');
     let object;
