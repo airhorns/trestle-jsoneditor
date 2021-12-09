@@ -6,7 +6,7 @@ Trestle.init(function (_, root) {
     let object;
     try {
       object = JSON.parse($field.val());
-    } catch {
+    } catch(err) {
       object = {}
     }
 
